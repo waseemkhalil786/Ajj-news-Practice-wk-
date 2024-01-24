@@ -1,0 +1,49 @@
+/* html body{
+    margin: 0;
+    width: 100%;
+} */
+/* div#title_bar{ */
+    /* width:76%;
+    margin:auto;
+    margin-top:4%;
+    border-style:solid;
+} */
+div>h1>a{
+    font-size: 60px;
+    position: relative; 
+    top: -370px;
+    right: -500px;
+    text-decoration: none;
+    color: #424539 ;
+    font-style: italic;
+}
+div>h1>a.join{
+    color:  #df752b;
+}
+div>h1.waseem>a{
+    font-size: 60px;
+    position: relative; 
+    top: -650px;
+    right: -1800px;
+    font-style: italic;
+}  
+div>h1.waseem>a.wk1{
+   color:  #df752b;
+}
+div>hr{
+    position: relative;
+    margin-top: 40;
+    border: 2px solid rgb(20, 20, 20);
+}
+div>a{
+    text-decoration: none;
+    color: #0a0a09 ;
+    font-weight: bolder;
+    width: 500;
+}
+div.add>iframe{
+    position: relative;
+    top: -500px;
+}
+div.text>p{
+text-align: right;
